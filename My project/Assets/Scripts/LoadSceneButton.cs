@@ -2,9 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class plll : MonoBehaviour
+public class LoadScenebutton : MonoBehaviour
 {
     // Start is called before the first frame update
+    public string SceneName;
+
+    public void LoadScene;
     void Start()
     {
         
