@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class LoadScenebutton : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
 
     [SerializeField] private PlayerInput _playerInput;
